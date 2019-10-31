@@ -17,6 +17,9 @@
 ## 效果图
 ![show](https://github.com/liangminghaoAngus/element-select/blob/master/show.gif "show")
 
+## 暂时支持
+调用 ```$select``` 后，目前只有 ```confirm```的做了处理返回```{action: "confirm", value: xxx}```
+
 
 # 如何使用 use
 在 「.vue」 文件中 
