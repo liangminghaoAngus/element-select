@@ -25,6 +25,10 @@
 在 「.vue」 文件中 
 in your 「.vue」 file
 
+参数设置：参考官方
+[link](https://element.eleme.cn/#/zh-CN/component/message-box#options "link")
+
+
 ```
 import '@/components/SelectMsg/index'
 
