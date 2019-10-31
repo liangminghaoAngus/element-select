@@ -11,6 +11,13 @@
 ![input](https://github.com/liangminghaoAngus/element-select/blob/master/%24input.png "input")
 ### input 输入框
 
+# 如果出现了选择并确认的需求，不想放在页面上 
+整一个，反正官方也说了，支持「自定义」
+
+## 效果图
+![show](https://github.com/liangminghaoAngus/element-select/blob/master/show.gif "show")
+
+
 # 如何使用 use
 在 「.vue」 文件中 
 in your 「.vue」 file
